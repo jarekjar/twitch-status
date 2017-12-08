@@ -1,0 +1,62 @@
+body {
+  background-image: url("https://i.ytimg.com/vi/8SrtOpAR-Vk/maxresdefault.jpg");
+  background-size: cover;
+  padding: 20px;
+}
+
+body, html {
+  height: 100%;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  
+}
+
+img {
+  height: 55px;
+  width: 55px;
+  float: left;
+}
+
+h3 {
+  font-size: 1em;
+}
+
+.title {
+  float: left;
+  margin-left: 15px;
+}
+
+.playing {
+  float: left;
+  margin-left: 20px;
+}
+.data {
+  
+}
+
+.container {
+  margin: 10px;
+}
+
+.border {
+  border: 2px solid purple;
+  border-radius: 20px;
+  padding: 1em;
+  background-color: rgba(102, 51, 103, 0.3);
+}
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+
+h2, h3 {
+  color: white;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+p {
+  color: white;
+  font-weight: bold;
+}
